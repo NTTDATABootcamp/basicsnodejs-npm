@@ -1,6 +1,6 @@
 # Basics of nodejs and npm
 
-## Intro
+## Introoo
 
 The goal of this exercise is to practice with npm.
 
